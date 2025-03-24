@@ -32,13 +32,10 @@ I specialize in **data analytics, machine learning, dashboarding, and full-stack
 ---
 
 ## 📈 **GitHub Stats**  
-![Sonal's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=github)  
 
 🔥 **Streak Stats**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=highcontrast)  
 
-📊 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)  
 
 🏆 **GitHub Achievements**  
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=YourUsername&column=4&margin-w=5)  
